@@ -109,9 +109,10 @@ python src/model_training.py
 
 | Model | RMSE | MAE | R² | Notes |
 |-------|------|------|------|--------|
-| Baseline | — | — | — | Mean predictor |
-| Random Forest | — | — | — | Best performance |
-| PCA + Regression | — | — | — | Dimensionality reduction |
+| Random Forest | 64.65 | 39.95 | 0.9983 | best model, lowest RMSE, Highest R2, Good training time  |
+| Decision Tree | 73.93 | 31.39 | 0.9978 | second best, slighly worse than RF |
+| XGBoost | 96.30 | 49.55 | 0.9963 | third best, good but not better than RF |
+| Linear Regression | 156.05 | 121.03 | 0.9903 | weakest, too simple for dataset |
 
 ### **Explainability**
 - Random Forest feature importance confirms strong spatial and weather effects.  
