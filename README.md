@@ -53,8 +53,8 @@ Workforce scheduling records containing:
 
 ### **Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/workforce-demand-forecasting.git
-cd workforce-demand-forecasting
+git clone https://github.com/raymondtacason-lgtm/interpretable-ridership-model.git
+cd interpretable-ridership-model
 ```
 
 ### **Create a virtual environment (optional)**
@@ -105,7 +105,7 @@ python src/model_training.py
 - **Shift patterns** show expected operational differences (afternoon > morning > night).  
 
 ### **Model Performance**  
-*(Insert your actual metrics once computed)*
+Here's the actual metrics
 
 | Model | RMSE | MAE | R² | Notes |
 |-------|------|------|------|--------|
@@ -124,7 +124,7 @@ python src/model_training.py
 
 **Author:** Raymond Tacason  
 **Location:** Pasig, Metro Manila, Philippines  
-**Role:** SAP WFS Analyst & Data Science Capstone Student  
+**Role:** SAP Workforce Software Practice Director 
 **Date Completed:** April 2026  
 
 ---
