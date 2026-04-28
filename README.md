@@ -124,7 +124,7 @@ Here's the actual metrics
 
 **Author:** Raymond Tacason  
 **Location:** Pasig, Metro Manila, Philippines  
-**Role:** SAP Workforce Software Practice Director 
+**Role:** SAP Workforce Software Practice Director   
 **Date Completed:** April 2026  
 
 ---
