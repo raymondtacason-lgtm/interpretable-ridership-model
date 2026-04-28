@@ -78,7 +78,7 @@ pip install -r requirements.txt
    ```bash
    jupyter notebook notebooks/Tacason_Raymond_Pillar5_Capstone.ipynb
    ```
-2. Run all cells from **Step 1 to Step 3e**  
+2. Run all cells
 3. Outputs include:
    - Data cleaning  
    - EDA  
