@@ -92,8 +92,7 @@ pip install -r requirements.txt
 ```bash
 python src/data_preprocessing.py
 python src/feature_engineering.py
-python src/train_model.py
-python src/evaluate_model.py
+python src/model_training.py
 ```
 
 ---
